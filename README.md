@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on data analysis projects using public data sets.
-- 🌱 I’m currently learning data analysis and visualization.
-- 💬 Ask me about Power BI, Tableau and SQL.
+- 🌱 I’m learning and perfecting data analysis and visualization.
+- 💬 Ask me about Power BI, Tableau and SQL and IT in general.
 
 
 <!--
