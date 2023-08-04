@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on data analysis projects using public data sets.
 - 🌱 I’m learning and perfecting data analysis and visualization.
-- 💬 Ask me about Power BI, Tableau and SQL and IT in general.
+- 💬 Ask me about Power BI, Tableau and SQL, System Administration and IT in general.
 
 
 <!--
